@@ -6,7 +6,7 @@
 name: Massinissa Hamidi 
 
 # Short bio or description (displayed in the header)
-description: Open to opportunities worldwide! 
+description: Open to opportunities worldwide!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://s.gravatar.com/avatar/0378c623c4a23d882b12d4dd4a1507cf?s=80
@@ -18,12 +18,12 @@ avatar: https://s.gravatar.com/avatar/0378c623c4a23d882b12d4dd4a1507cf?s=80
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: massinissa.hamidi@lipn.univ-paris13.fr
   facebook:
   flickr:
   github: hamidimassinissa 
   instagram:
-  linkedin:
+  linkedin: massinissahamidi
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: hamidimassiniss 
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://hamidimassinissa.github.io
+url: http://lipn.univ-paris13.fr
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/~hamidi"
 
 #
 # !! You don't need to change any of the configuration flags below !!
