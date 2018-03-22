@@ -16,6 +16,11 @@ to come...
     git cherry-pick commit_hash # hash of the commit that adds .gitignore file
 ```
 
+* Push all branches to origin
+```
+    git push --all origin
+```
+
 to come...
 
 ### Prerequesties
