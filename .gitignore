@@ -15,3 +15,6 @@ tags
 
 # jekyll related
 .sass-cache/
+_site/
+academic/
+personal/

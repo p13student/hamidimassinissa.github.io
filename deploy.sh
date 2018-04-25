@@ -1,10 +1,10 @@
 #!/bin/bash
 
-usage='[usage] ./deploy.sh (personal|academic)'
+usage='[usage] ./deploy.sh (personal|academic) [--serve]'
 personal_dest=./personal
 academic_dest=./academic
 
-if [[ $# -ne 1 ]];
+if [[ $# -gt 2 ]];
 then
     echo $usage
     exit -1
@@ -24,3 +24,8 @@ case $1 in
         exit -1
         ;;
 esac
+
+if [[ $# -eq 2 ]];
+then
+    jekyll serve
+fi
