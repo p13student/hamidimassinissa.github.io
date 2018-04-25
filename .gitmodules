@@ -1,0 +1,3 @@
+[submodule "academic"]
+	path = academic
+	url = https://depot.lipn.univ-paris13.fr/hamidi/lipn-website.git
