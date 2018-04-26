@@ -86,8 +86,10 @@ exclude:
   - CNAME
   - deploy.sh
 
-keep_files: [external]
+keep_files: [external, misc]
 
 collections:
     iot_projects:
         output: true
+
+github_repo: hamidimassinissa/ai-deadlines
